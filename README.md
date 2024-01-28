@@ -23,7 +23,7 @@ $ ./element.sh <element name> or <element symbol> or <atomic number>
 ```
 
 ## Example
-<img src="period_ex.png" />
+<img src="period_ex.PNG" />
 
 ## Technologies:
 - PostgreSQL
